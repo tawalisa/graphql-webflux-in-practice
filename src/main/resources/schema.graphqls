@@ -1,0 +1,9 @@
+type Query {
+    hello: String
+    test: [String]
+    test1: String
+}
+
+type Subscription {
+    hello: Int
+}
